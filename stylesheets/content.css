@@ -1,0 +1,259 @@
+body{
+    width: 100%;
+    background-color: black;
+    cursor: url("../image/cursor.svg"), auto;
+}
+
+.sec2{
+    overflow: hidden;
+    height: 60vw;
+}
+
+.gif1{
+    width: 100%;
+}
+
+.knopka1{
+    margin-top: -40%;
+    margin-left: 30%;
+}
+
+.cozdat{
+    width: 60%;
+}
+ .kur{
+    width: 10%;
+ }
+
+ .none{
+    display: none;
+ }
+ .block{
+    display: block;
+ }
+
+.constants{
+    display: flex;
+    position: relative;
+    width: 50%;
+    z-index: 1000;
+   
+}
+.krugg{
+    width: 100%;
+    position: absolute;
+    margin-left: 13%;
+}
+.krugj{
+    width: 100%;
+    position: absolute;
+   
+  
+
+}
+
+.krugk{
+    width: 100%;
+    position: absolute;
+    
+    margin-left: 36%;
+
+}
+
+.serg{
+    width: 100%;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 17%;
+    
+}
+
+.serk{
+    width: 100%;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 0%;
+   
+}
+
+.serj{
+    width: 100%;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 35%;
+   
+}
+
+.bantg{
+    width: 100%;
+    position: absolute;
+    margin-top: 56%;
+   
+}
+
+.bantj{
+    width: 100%;
+    position: absolute;
+    margin-top: 56%;
+    margin-left: 20%;
+}
+.bantk{
+    width: 100%;
+    position: absolute;
+    margin-top: 56%;
+    margin-left: 40%
+}
+
+.palkaj{
+    width: 100%;
+    position: absolute;
+    margin-top: 80%;
+}
+
+.palkak{
+    width: 100%;
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 16%;
+}
+
+.palkag{
+    width: 100%;
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 35%;
+}
+
+.piramida{
+    width: 100%;
+    position: absolute;
+    margin-left: 150%;
+   
+}
+
+.lepestok{
+    width: 100%;
+    position: absolute;
+    margin-left: 150%;
+    margin-top: 28%;
+}
+
+.krugi{
+    width: 100%;
+    position: absolute;
+    margin-left: 160%;
+    margin-top: 56%;
+}
+
+.kapli{
+    width: 100%;
+    position: absolute;
+    margin-left: 150%;
+    margin-top: 87%;
+}
+.knopki{
+    position: relative;
+    display: flex;
+    z-index: 2000;
+    width: 40%;
+    margin-left: 30%;
+    /* margin-top: -8%; */
+    justify-content: center;
+    gap: 2%;
+    margin-bottom: 2%;
+}
+.kngotovo{
+    width: 100%;
+    position: absolute;
+    margin-top: 52%;
+  
+    z-index: 2000;
+
+}
+
+
+
+.ludi{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: -4%;
+    margin-left: 30%;
+}
+
+.lala{
+    width: 20%;
+}
+.kap{
+    width: 40%;
+}
+
+.fff{
+    width: 30%;
+}
+.tet{
+    width: 50%;
+}
+.pir{
+    width: 50%;
+}
+.rrrr{
+    width: 15%;
+}
+
+.eee{
+    width: 15%;
+}
+
+.sss{
+    width: 15%;
+}
+
+.ddd{
+    width: 18%;
+}
+.ccc{
+    width: 18%;
+}
+.xaxa{
+    width: 18%;
+}
+.your{
+    width: 15%;
+}
+.hiss{
+    width: 15%;
+}
+.her{
+    width: 15%;
+}
+.my{
+    width: 20%;
+}
+.okok{
+    width: 20%;
+}
+.gotovo{
+    width: 20%;
+}
+.knprs1{
+    width: 100%;
+}
+.kprs2{
+    width: 100%;
+}
+.knpers3{
+    width: 100%;
+}
+.knper4{
+    width: 100%;
+}
+
+.jopa{
+width: 80%;
+}
+
+.gi2{
+    width: 100%;
+}
